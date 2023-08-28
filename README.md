@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#d070fb&height=150&section=header&text=Front-and&fontColor=#ededed&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-### 백엔드개발자가 되고싶은 이해빈입니다😊
+### 프론트앤드개발자가 되고싶은 이해빈입니다😊
   
  <br/>
  <br/>
